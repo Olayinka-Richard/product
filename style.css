@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background-image: linear-gradient(rgba(17, 17, 17, 0.7),rgba(19, 19, 19, 0.7)) ,url(image/hero-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    background-attachment: fixed;
+}
+.main{border-radius
+    :0%;
+    width: 1px;
+}
